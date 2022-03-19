@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "PostgreSQL": "Put your PostgreSQL connection string here"
+  }
+}
